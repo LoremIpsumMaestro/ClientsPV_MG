@@ -12,19 +12,19 @@ Ce document présente les chiffres d'affaires et le nombre d'employés des princ
 | Longi Solar | 50,42 milliards RMB (~6,5 milliards €) | Plus de 65 000 | Chine |
 | JinkoSolar | 4,27 milliards $ (2019) | 15 000 | Chine |
 | Einnova Solarline | N/A | 7 (commerce international) | Chine |
-| Hanwha Q CELLS | N/A | N/A | Corée du Sud |
+| Hanwha Q CELLS | 624,7 millions $ (Q4 2018) | 169 (USA) | Corée du Sud |
 | REC Solar | ~122,8 millions $ (estimé) | ~468 | Norvège |
-| Meyer Burger | 135 millions CHF (2023) | ~500 | Suisse |
+| Meyer Burger | 135 millions CHF (2023) | ~1 294 | Suisse |
 | SunPower | 1,7 milliard $ (2023) | N/A | États-Unis |
-| SUNERG Solar | 3,83 millions € (2023, Solar SRL) | N/A | Italie |
+| SUNERG Solar | 29,66 millions $ | 66-80 | Italie |
 | **Solutions d'Onduleurs et Optimisation** |  |  |  |
 | Enphase Energy | 60,05 millions € (France, 2022) | N/A | États-Unis |
 | SolarEdge | 2,85 millions € (France, 2021) | N/A | Israël |
 | Huawei | 417,5 milliards yuans (~53,2 milliards €) | 194 000 | Chine |
 | Fronius | 499 millions € (2010) | N/A | Autriche |
 | SMA | 1,46 milliards € (2012) | 5 500 (2012) | Allemagne |
-| KOSTAL | 190 376 € (France, 2019) | N/A | Allemagne |
-| Victron Energy | N/A | N/A | Pays-Bas |
+| KOSTAL Solar Electric | 190 376 € (France, 2019) | 11-50 (Ibérique) | Allemagne |
+| Victron Energy | 23 millions $ (2024) | 49-124 | Pays-Bas |
 | **Systèmes de Montage et Fixation** |  |  |  |
 | K2 Systems | < 700 000 € (filiale française) | N/A | Allemagne |
 | Mounting Systems | N/A | N/A | Allemagne |
@@ -34,14 +34,14 @@ Ce document présente les chiffres d'affaires et le nombre d'employés des princ
 | Solarwatt | 22,69 millions € (France, 2023) | 16 (France) | Allemagne |
 | Sonnen | N/A | N/A | Allemagne |
 | Tesla Energy | 6 milliards $ (2023) | Partie des 127 000 de Tesla | États-Unis |
-| BYD Battery | ~28,24 milliards $ (Q3 2023) | 290 000 (groupe) | Chine |
+| BYD Battery | 483,45 milliards yuans (2023) | 704 000 (groupe) | Chine |
 | ATON Storage | N/A | N/A | Italie |
 | **Installateurs et Intégrateurs** |  |  |  |
 | EDF ENR | 248,17 millions € (2022) | N/A | France |
 | TotalEnergies | 237,1 milliards € (2023, groupe) | 102 579 (groupe) | France |
 | Désignet Energy | N/A | N/A | France |
-| IBC SOLAR | ~800 millions € (2008) | 300-400 | Allemagne |
-| ENGIE Solar | Partie des 80 milliards € (groupe) | Partie des 172 703 (groupe) | France |
+| IBC SOLAR | ~800 millions € (2008) | 201-500 | Allemagne |
+| ENGIE Solar | 479 millions € (Q3 2023) | Partie des 96 454 (groupe) | France |
 
 ## Détails par Entreprise
 
@@ -77,19 +77,19 @@ Ce document présente les chiffres d'affaires et le nombre d'employés des princ
 - **Informations supplémentaires** : Entreprise chinoise fondée en 2008, spécialisée dans les panneaux solaires conventionnels et spécifiques (flexibles, légers, colorés, anti-reflets).
 
 #### Hanwha Q CELLS
-- **Chiffre d'affaires** : Non disponible pour la filiale française
-- **Employés** : Non disponible
+- **Chiffre d'affaires** : 624,7 millions $ (Q4 2018)
+- **Employés** : 169 (filiale américaine)
 - **Innovation** : Cellule tandem pérovskite-silicium avec 28,6% d'efficacité (2024)
 - **Informations supplémentaires** : Fabricant mondial de modules photovoltaïques appartenant au groupe Hanwha. Développe également des solutions de stockage pour le segment commercial.
 
 #### REC Solar
 - **Chiffre d'affaires** : ~122,8 millions $ (estimation)
 - **Employés** : ~468
-- **Informations supplémentaires** : Fabricant norvégien spécialisé dans les panneaux solaires premium. L'entreprise appartient maintenant à un groupe basé à Singapour.
+- **Informations supplémentaires** : Fabricant norvégien spécialisé dans les panneaux solaires premium. L'entreprise appartient maintenant à un groupe basé à Singapour et a été acquise par Reliance Industries pour 771 millions $.
 
 #### Meyer Burger
 - **Chiffre d'affaires** : 135 millions CHF (2023)
-- **Employés** : ~500
+- **Employés** : 1 294
 - **Situation financière** : Perte de 291,9 millions CHF en 2023, contre 69,9 millions en 2022
 - **Informations supplémentaires** : Fabricant suisse ayant arrêté sa production en Allemagne début 2024 face à la concurrence chinoise. Objectif de 350-400 millions CHF de chiffre d'affaires d'ici 2026.
 
@@ -100,9 +100,9 @@ Ce document présente les chiffres d'affaires et le nombre d'employés des princ
 - **Informations supplémentaires** : Entreprise américaine spécialisée dans les panneaux haute efficacité. A déposé le bilan en août 2024.
 
 #### SUNERG Solar
-- **Chiffre d'affaires** : 3,83 millions € (2023, pour Solar SRL)
-- **Employés** : Plus de 10 (estimation)
-- **Informations supplémentaires** : Fabricant italien de modules photovoltaïques avec production principalement européenne.
+- **Chiffre d'affaires** : 29,66 millions $ 
+- **Employés** : 66-80
+- **Informations supplémentaires** : Fabricant italien de modules photovoltaïques avec production principalement européenne, présent sur le marché depuis 1978.
 
 ### Solutions d'Onduleurs et Optimisation
 
@@ -137,15 +137,15 @@ Ce document présente les chiffres d'affaires et le nombre d'employés des princ
 
 #### KOSTAL Solar Electric
 - **Chiffre d'affaires France** : 190 376 € (2019)
-- **Employés** : Non disponible
+- **Employés** : 11-50 (division ibérique)
 - **Capital social France** : 50 000 €
 - **Informations supplémentaires** : Fabricant allemand d'onduleurs et de solutions de gestion énergétique. La filiale française a connu une baisse de 26% de son chiffre d'affaires entre 2017 et 2019.
 
 #### Victron Energy
-- **Chiffre d'affaires** : Non disponible
-- **Employés** : Non disponible
-- **Clients** : Plus de 18 000 particuliers et 1 000 professionnels
-- **Informations supplémentaires** : Entreprise néerlandaise fondée en 2003, spécialisée dans les solutions off-grid et de secours.
+- **Chiffre d'affaires** : 23 millions $ (2024)
+- **Employés** : 49 (siège), jusqu'à 124 (selon les sources)
+- **Ventes annuelles** : 272,19 millions $ (selon D&B)
+- **Informations supplémentaires** : Entreprise néerlandaise fondée en 1975, spécialisée dans les solutions off-grid et de secours.
 
 ### Systèmes de Montage et Fixation
 
@@ -191,8 +191,8 @@ Ce document présente les chiffres d'affaires et le nombre d'employés des princ
 - **Informations supplémentaires** : Division énergie de Tesla, spécialisée dans les solutions Powerwall, Powerpack et les panneaux solaires.
 
 #### BYD Battery
-- **Chiffre d'affaires global** : ~28,24 milliards $ (Q3 2023)
-- **Employés** : 290 000 (ensemble du groupe)
+- **Chiffre d'affaires batteries/PV** : 483,45 milliards yuans (2023)
+- **Employés** : 704 000 (2023, ensemble du groupe)
 - **Volume de ventes** : 3 millions d'unités (2023)
 - **Informations supplémentaires** : Leader mondial des batteries lithium-fer-phosphate (LFP). Le groupe possède 30 parcs industriels et plus de 40 filiales dans le monde.
 
@@ -222,13 +222,14 @@ Ce document présente les chiffres d'affaires et le nombre d'employés des princ
 
 #### IBC SOLAR
 - **Chiffre d'affaires** : ~800 millions € (2008)
-- **Employés** : 300-400 au niveau mondial, dont 22 en France
+- **Employés** : 201-500 au niveau mondial, dont 22 en France
 - **Informations supplémentaires** : Distributeur et fournisseur de solutions photovoltaïques fondé en 1982. L'entreprise a installé plus de 1,6 GWc à travers le monde.
 
 #### ENGIE Solar
-- **Chiffre d'affaires global** : Partie des 80 milliards € du groupe ENGIE (2023)
-- **Employés** : Partie des 172 703 employés du groupe, dont 141 000 en Europe
-- **Informations supplémentaires** : Filiale du groupe ENGIE spécialisée dans le développement, le financement, la construction et l'exploitation de centrales solaires.
+- **Chiffre d'affaires division solaire** : 479 millions € (Q3 2023)
+- **Chiffre d'affaires global** : 82,6 milliards € (groupe ENGIE, 2023)
+- **Employés** : Partie des 96 454 employés du groupe (2022)
+- **Informations supplémentaires** : Filiale du groupe ENGIE spécialisée dans le développement, le financement, la construction et l'exploitation de centrales solaires. A installé 3,9 GW de capacité renouvelable en 2023.
 
 ---
 
